@@ -23,3 +23,5 @@ const writeData = async (path, data) => {
     console.log(response.status);
 }
 writeData("./students.json", {name: "B" });
+
+// done 
