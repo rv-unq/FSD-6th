@@ -1,0 +1,71 @@
+[{
+  "id": 1,
+  "first_name": "Hank",
+  "last_name": "Fooks",
+  "email": "hfooks0@delicious.com",
+  "gender": "Male",
+  "ip_address": "201.25.168.56"
+}, {
+  "id": 2,
+  "first_name": "Violetta",
+  "last_name": "Snellman",
+  "email": "vsnellman1@drupal.org",
+  "gender": "Female",
+  "ip_address": "182.71.25.109"
+}, {
+  "id": 3,
+  "first_name": "Sheffield",
+  "last_name": "Hagston",
+  "email": "shagston2@howstuffworks.com",
+  "gender": "Male",
+  "ip_address": "244.193.141.251"
+}, {
+  "id": 4,
+  "first_name": "Tine",
+  "last_name": "Cromly",
+  "email": "tcromly3@illinois.edu",
+  "gender": "Female",
+  "ip_address": "173.52.109.255"
+}, {
+  "id": 5,
+  "first_name": "Natal",
+  "last_name": "Templar",
+  "email": "ntemplar4@google.fr",
+  "gender": "Male",
+  "ip_address": "104.5.242.64"
+}, {
+  "id": 6,
+  "first_name": "Reynold",
+  "last_name": "Blanckley",
+  "email": "rblanckley5@usatoday.com",
+  "gender": "Agender",
+  "ip_address": "196.65.235.161"
+}, {
+  "id": 7,
+  "first_name": "Rebe",
+  "last_name": "Frankham",
+  "email": "rfrankham6@cyberchimps.com",
+  "gender": "Bigender",
+  "ip_address": "255.244.83.46"
+}, {
+  "id": 8,
+  "first_name": "Koressa",
+  "last_name": "Aseef",
+  "email": "kaseef7@blogtalkradio.com",
+  "gender": "Female",
+  "ip_address": "175.241.186.255"
+}, {
+  "id": 9,
+  "first_name": "Codie",
+  "last_name": "Geekin",
+  "email": "cgeekin8@wiley.com",
+  "gender": "Male",
+  "ip_address": "21.211.229.71"
+}, {
+  "id": 10,
+  "first_name": "Lottie",
+  "last_name": "Dobby",
+  "email": "ldobby9@europa.eu",
+  "gender": "Female",
+  "ip_address": "122.58.164.117"
+}]
